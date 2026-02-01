@@ -264,3 +264,5 @@ One step. One day. One project at a time. 🚀
 
  Last updated: [1st Feb,2026]   
  Committed to consistent backend learning. 
+# Task Tracker – Step 2: Building Something Real 🛠️
+[View this project on GitHub](https://github.com/KARIM-bytes/task-tracker-cli)
